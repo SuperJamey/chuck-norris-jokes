@@ -17,6 +17,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+
+  "homepage": "https://superjamey.github.io/chuck-norris-jokes",
+  
   "eslintConfig": {
     "extends": [
       "react-app",
